@@ -5,7 +5,7 @@ title: Aakanksha Tiwari
 
 <link rel="stylesheet" href="assets/css/style.css">
 
-# AI Citizen Lab
+# Aakanksha Tiwari
 
 Welcome to my personal website.
 
