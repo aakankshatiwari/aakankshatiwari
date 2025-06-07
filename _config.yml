@@ -1,0 +1,10 @@
+title: Aakanksha Tiwari
+email: your-email@example.com
+description: >- 
+  Personal website showcasing projects, blogs, and publications.
+baseurl: ""
+url: "https://aakankshatiwari.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
