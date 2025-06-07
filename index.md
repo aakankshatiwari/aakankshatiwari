@@ -1,12 +1,12 @@
 ---
 layout: none
-title: Aakanksha Tiwari
+title: AI Citizen Lab
 ---
 
 <link rel="stylesheet" href="assets/css/style.css">
 
-# Aakanksha Tiwari
+# AI Citizen Lab
 
-Welcome to my personal website.
+Welcome, you can checkout all our projects on this website.
 
 [Projects](projects.html) | [Blog](blog.html)
