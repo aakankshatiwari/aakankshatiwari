@@ -1,6 +1,12 @@
 ---
-layout: home
-title: "Welcome to My Personal Site"
+layout: none
+title: AI Citizen Lab
 ---
 
-Hi, I'm **Aakanksha Tiwari**, a data scientist and AI researcher. This site showcases my projects, blog posts, and publications.
+<link rel="stylesheet" href="assets/css/style.css">
+
+# AI Citizen Lab
+
+Welcome to the AI Citizen Lab — where open AI meets public good.
+
+[Projects](projects.html) | [Blog](blog.html)
